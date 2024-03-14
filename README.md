@@ -7,7 +7,7 @@ Explore and experiment with HTML and CSS in this repository dedicated to web dev
 1. Clone this repository
 
 ```bash
-git clone git@github.com:midudev/javascript-100-proyectos.git
+git clone git@github.com:JFernando13/web-dev-demos.git
 ```
 
 2. Access a la carpeta del proyecto que quieras practicar
