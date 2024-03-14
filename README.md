@@ -17,8 +17,8 @@ cd 01-hero-animated
 ```
 
 3. Read the README and follow instructions.
-4. Instala la extensión [**Live Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) en Visual Studio Code.
-5. Presiona `F1` y selecciona `Live Preview: Start Server`.
+4. Install the [**Live Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) extension in Visual Studio Code.
+5. Press `F1` and select `Live Preview: Start Server`.
 6. Code and enjoy the proccess
 7. Finaly, push the files on GitHub
 
