@@ -10,7 +10,7 @@ Explore and experiment with HTML and CSS in this repository dedicated to web dev
 git clone git@github.com:JFernando13/web-dev-demos.git
 ```
 
-2. Access a la carpeta del proyecto que quieras practicar
+2. Go to the folder of the project you want to practice.
 
 ```bash
 cd 01-hero-animated
